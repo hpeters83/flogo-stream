@@ -1,4 +1,4 @@
-module github.com/project-flogo/stream/activity/filter
+module github.com/hpeters83/flogo-stream/activity/filter
 
 require (
 	github.com/project-flogo/core v0.10.1
