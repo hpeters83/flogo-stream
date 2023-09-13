@@ -49,3 +49,5 @@ submodules/flogo-cicd/.build-cache
 ./Dockerfile
 
 .vscode/
+/Notes.tx
+/Notes.txt

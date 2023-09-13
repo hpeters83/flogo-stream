@@ -1,4 +1,4 @@
-module github.com/project-flogo/stream
+module github.com/hpeters83/flogo-stream
 
 require (
 	github.com/project-flogo/core v1.6.5

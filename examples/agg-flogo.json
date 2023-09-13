@@ -5,8 +5,8 @@
   "appModel": "1.1.0",
   "imports" : [
     "github.com/project-flogo/contrib/trigger/rest",
-    "github.com/project-flogo/stream",
-    "github.com/project-flogo/stream/activity/aggregate",
+    "github.com/hpeters83/flogo-stream",
+    "github.com/hpeters83/flogo-stream/activity/aggregate",
     "github.com/project-flogo/contrib/activity/log"
   ],
   "triggers": [
